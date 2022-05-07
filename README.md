@@ -1,5 +1,37 @@
 ### Hi there 👋
 
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
+```javascript
+const oscar = {
+    pronouns: "He" | "Him",
+    askMeAbout: [
+        "web dev",
+        "tech",
+        "game"
+    ],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: [
+                "bootstrap",
+                "tailwind"
+            ]
+        },
+        backEnd: [
+            "Javascript",
+            "PHP",
+            "C#",
+            "Golang"
+        ],
+        databases: [
+            "MySql",
+            "Mongo"
+        ],
+    }
+};
+```
+
 <!--
 **Kafeiih/kafeiih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
